@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="styles.css">
+<main id="main">
+  <title id="title">OMGGGGG </title>
+
+<div id="img-div">
+<figcaption id="img-caption">OH </figcaption>
+<img id="image">d</img>
+  </div> 
+
+<p id="tribute-info"> Oh lord</p>
+<a id="tribute-link" href="target" target="_blank">
+</main>
